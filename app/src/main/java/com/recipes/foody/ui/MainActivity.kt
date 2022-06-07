@@ -1,4 +1,4 @@
-package com.recipes.foody
+package com.recipes.foody.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -8,6 +8,7 @@ import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
+import com.recipes.foody.R
 import com.recipes.foody.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
