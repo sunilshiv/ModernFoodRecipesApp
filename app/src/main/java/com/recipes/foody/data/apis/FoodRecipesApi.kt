@@ -1,4 +1,4 @@
-package com.recipes.foody
+package com.recipes.foody.data.apis
 
 import com.recipes.foody.models.FoodRecipes
 import retrofit2.Response

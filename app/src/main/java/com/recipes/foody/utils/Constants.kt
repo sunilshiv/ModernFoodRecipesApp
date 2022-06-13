@@ -1,4 +1,4 @@
-package com.recipes.foody
+package com.recipes.foody.utils
 
 class Constants {
     
